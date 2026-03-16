@@ -1,0 +1,4 @@
+admin;9d01b615744e617c;Admin;1;0;2099-01-01
+houssam;563653b2f057ca04;SuperAdmin;1;0;2099-01-01
+taha;821f0a2eaf25d285;Client;1;0;2026-02-02
+mohamed;7ec04bdf1be8c8d2;Client;0;0;
